@@ -1,30 +1,52 @@
 # İlhan Kaya
-## 🛠 Teknik Yetenekler
 
-- **Diller:** C#, HTML, PHP, CSS,  JavaScript(REACT NATİVE - EXPO), C++
-- **Frameworkler:** 
-- **Veritabanları:** SQL,SUPABASE
-- **Araçlar ve Teknolojiler:**
+11 yaşından beri yazılım dünyasının içinde üreten, kodlayan ve tasarlayan; akademik teoriyi erken yaşta edindiğim pratik tecrübeyle harmanlayan çok yönlü bir **Yazılım Geliştiriciyim.** Kırşehir Ahi Evran Üniversitesi Bilgisayar Programcılığı bölümünde eğitimime devam ederken, hem masaüstü hem de cross-platform mobil dünyada ölçeklenebilir projeler geliştiriyorum.
 
+---
 
-## 💼 Deneyimler
-- Karadeniz Bilgisayar
-- Bayraktar Lavaş
-- Uzun Bilişim Software
+### [■] Öne Çıkan Özellikler
 
-### Web Geliştirici
-**Yapmış Olduğum Bazı Siteler**
-- https://karadenizbilgisayar.com.tr
-  
+* **Full-Stack Mobil:** Expo ve Supabase ekosistemini kullanarak gerçek zamanlı (real-time) chat ve sağlık takip uygulamaları geliştiriyorum.
+* **Masaüstü & Mimari:** C# .NET (Console & WinForms) ve WPF mimarilerine hakimim. XAML ile modern kullanıcı arayüzleri, SQL ve MySQL ile güçlü veri tabanı sistemleri inşa ediyorum.
+* **Çok Yönlü Geliştirme:** PHP ve Web (HTML/CSS) teknolojilerinden, C++ ile robotik kodlamaya (Tinkercad), temel seviyede Python ve Android Studio (Java Ant) çalışmalarına kadar geniş bir yelpazede çözümler üretiyorum.
+* **Tasarım & Kurgu:** Kodunu yazdığım projelerin UI/UX tasarımlarını Figma ve Photoshop ile çiziyor; After Effects ve CapCut ile görsel/video süreçlerini yönetiyorum.
 
+---
 
-## 🎓 Eğitim/Sertifikalar
+### [⚙] Teknolojik Araç Çantası (Tech Stack)
 
-- Yazılım Geliştirme - TRABZON MESLEKİ VE TEKNİK ANADOLU LİSESİ
-- Unity İle İnteraktif Grafik Uygulamaları - Hayat Boyu Öğrenme Genel Müdürlüğü
+| Alan | Teknolojiler & Araçlar |
+| :--- | :--- |
+| **Masaüstü & Backend** | C# .NET (Console, WinForms, WPF), XAML, PHP, Java (Ant), SQL, MySQL |
+| **Mobil & Web** | React Native (Expo), Supabase, HTML, CSS, Android Studio (Temel), Python (Temel) |
+| **Donanım & Robotik** | C++, Tinkercad (Modelleme & Simülasyon) |
+| **Tasarım & Kurgu** | Figma, Adobe Photoshop, Adobe After Effects, CapCut |
+| **Oyun Motorları** | Unity, Godot, Construct 2, CopperCube 6 |
 
-## 📫 Bana Ulaşın
+---
 
-- **GitHub:** [github.com/ilhan-kaya](https://github.com/ilhankaya00)
-- **LinkedIn:** [linkedin.com/in/ilhan-kaya](https://linkedin.com/in/ilhankaya00)
+### [📊] GitHub İstatistikleri
 
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight" alt="İlhan's GitHub Stats" height="150" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight" alt="İlhan's GitHub Streak" height="150" />
+</p>
+
+---
+
+### [📁] Geliştirilen Proje Konseptleri
+
+* **Real-Time Chat Uygulaması** (Expo & Supabase mimarisiyle anlık mesajlaşma)
+* **Masaüstü Muhasebe Otomasyonları** (C# & SQL tabanlı kurumsal çözümler)
+* **Sağlık ve Aktivite Takip Yazılımları** (Kullanıcı odaklı mobil çözümler)
+* **C++ & Tinkercad Robotik Projeleri** (Donanım ve simülasyon temelli kodlamalar)
+* **2D & 3D Oyun Prototipleme** (Farklı oyun motorları üzerinde mekanik denemeleri)
+
+---
+
+### [✉] İletişim
+
+* **LinkedIn:** [linkedin.com/in/YOUR_LINKEDIN_USERNAME](https://linkedin.com/in/YOUR_LINKEDIN_USERNAME)
+* **E-Posta:** [E-posta Adresin]
+
+> Tasarımla kodu, donanımla yazılımı birleştirerek yenilikçi çözümler üretmeye devam ediyorum.
