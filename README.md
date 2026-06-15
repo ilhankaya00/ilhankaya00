@@ -4,7 +4,7 @@
 
 ---
 
-### [■] Öne Çıkan Özellikler
+### 🚀 Öne Çıkan Özellikler
 
 * **Full-Stack Mobil:** Expo ve Supabase ekosistemini kullanarak gerçek zamanlı (real-time) chat ve sağlık takip uygulamaları geliştiriyorum.
 * **Masaüstü & Mimari:** C# .NET (Console & WinForms) ve WPF mimarilerine hakimim. XAML ile modern kullanıcı arayüzleri, SQL ve MySQL ile güçlü veri tabanı sistemleri inşa ediyorum.
@@ -13,7 +13,7 @@
 
 ---
 
-### [⚙] Teknolojik Araç Çantası (Tech Stack)
+### 💻 Teknolojik Araç Çantası (Tech Stack)
 
 | Alan | Teknolojiler & Araçlar |
 | :--- | :--- |
@@ -25,26 +25,26 @@
 
 ---
 
-### [📊] GitHub İstatistikleri
+### 📊 GitHub İstatistikleri
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=ilhankaya00&show_icons=true&theme=tokyonight" alt="İlhan's GitHub Stats" height="150" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ilhankaya00&theme=tokyonight" alt="İlhan's GitHub Streak" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ilhankaya00&layout=compact&theme=tokyonight" alt="İlhan's Top Languages" height="150" />
 </p>
 
 ---
 
-### [📁] Geliştirilen Proje Konseptleri
+### 📂 Geliştirilen Proje Konseptleri
 
 * **Real-Time Chat Uygulaması** (Expo & Supabase mimarisiyle anlık mesajlaşma)
 * **Masaüstü Muhasebe Otomasyonları** (C# & SQL tabanlı kurumsal çözümler)
-* **Sağlık ve Aktivite Takip Yazılımları** (Kullanıcı odaklı mobil solutions)
+* **Sağlık ve Aktivite Takip Yazılımları** (Kullanıcı odaklı mobil çözümler)
 * **C++ & Tinkercad Robotik Projeleri** (Donanım ve simülasyon temelli kodlamalar)
 * **2D & 3D Oyun Prototipleme** (Farklı oyun motorları üzerinde mekanik denemeleri)
 
 ---
 
-### [✉] İletişim
+### ✉️ İletişim
 
 * **LinkedIn:** [linkedin.com/in/YOUR_LINKEDIN_USERNAME](https://linkedin.com/in/YOUR_LINKEDIN_USERNAME)
 * **E-Posta:** [E-posta Adresin]
