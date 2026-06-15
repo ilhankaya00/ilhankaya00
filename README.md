@@ -46,7 +46,7 @@
 
 ### ✉️ İletişim
 
-* **LinkedIn:** [linkedin.com/in/YOUR_LINKEDIN_USERNAME](https://linkedin.com/in/YOUR_LINKEDIN_USERNAME)
-* **E-Posta:** [E-posta Adresin]
+* **LinkedIn:** [linkedin.com/in/ilhankaya00](https://linkedin.com/in/ilhankaya00)
+* **Instagram:** [instagram.com/kaya.ilhan_](https://instagram.com/kaya.ilhan_)
 
 > Tasarımla kodu, donanımla yazılımı birleştirerek yenilikçi çözümler üretmeye devam ediyorum.
