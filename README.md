@@ -28,8 +28,8 @@
 ### [📊] GitHub İstatistikleri
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight" alt="İlhan's GitHub Stats" height="150" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight" alt="İlhan's GitHub Streak" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ilhankaya00&show_icons=true&theme=tokyonight" alt="İlhan's GitHub Stats" height="150" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ilhankaya00&theme=tokyonight" alt="İlhan's GitHub Streak" height="150" />
 </p>
 
 ---
@@ -46,7 +46,6 @@
 
 ### [✉] İletişim
 
-* **LinkedIn:** [linkedin.com/in/YOUR_LINKEDIN_USERNAME](https://linkedin.com/in/YOUR_LINKEDIN_USERNAME)
-* **E-Posta:** [E-posta Adresin]
+* **LinkedIn:** [linkedin.com/in/YOUR_LINKEDIN_USERNAME](https://linkedin.com/in/YOUR_ilhankaya00)
 
 > Tasarımla kodu, donanımla yazılımı birleştirerek yenilikçi çözümler üretmeye devam ediyorum.
