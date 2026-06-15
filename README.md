@@ -29,7 +29,7 @@
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=ilhankaya00&show_icons=true&theme=tokyonight" alt="İlhan's GitHub Stats" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ilhankaya00&layout=compact&theme=tokyonight" alt="İlhan's Top Languages" height="250" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ilhankaya00&layout=compact&theme=tokyonight" alt="İlhan's Top Languages" height="150" />
 </p>
 
 ---
