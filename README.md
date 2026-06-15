@@ -38,7 +38,7 @@
 
 * **Real-Time Chat Uygulaması** (Expo & Supabase mimarisiyle anlık mesajlaşma)
 * **Masaüstü Muhasebe Otomasyonları** (C# & SQL tabanlı kurumsal çözümler)
-* **Sağlık ve Aktivite Takip Yazılımları** (Kullanıcı odaklı mobil çözümler)
+* **Sağlık ve Aktivite Takip Yazılımları** (Kullanıcı odaklı mobil solutions)
 * **C++ & Tinkercad Robotik Projeleri** (Donanım ve simülasyon temelli kodlamalar)
 * **2D & 3D Oyun Prototipleme** (Farklı oyun motorları üzerinde mekanik denemeleri)
 
@@ -46,6 +46,7 @@
 
 ### [✉] İletişim
 
-* **LinkedIn:** [linkedin.com/in/YOUR_LINKEDIN_USERNAME](https://linkedin.com/in/YOUR_ilhankaya00)
+* **LinkedIn:** [linkedin.com/in/YOUR_LINKEDIN_USERNAME](https://linkedin.com/in/YOUR_LINKEDIN_USERNAME)
+* **E-Posta:** [E-posta Adresin]
 
 > Tasarımla kodu, donanımla yazılımı birleştirerek yenilikçi çözümler üretmeye devam ediyorum.
